@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/amadis-sc/amadis-sc/blob/main/1764018429688.jpeg?raw=true" alt="Banner" />
+</p>
+
 # 👋 Hi, I'm Amadís  
 ### Data Analyst | Industrial Maintenance | Food Safety & Compliance | Technical Documentation  
 
