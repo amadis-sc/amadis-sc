@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Amadís  
+### Data Analyst | Industrial Maintenance | Food Safety & Compliance | Technical Documentation  
 
-<!--
-**amadis-sc/amadis-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst in training with hands-on experience in operations, industrial maintenance, and regulatory compliance (AIB, HACCP, GMP). I focus on transforming operational data into practical insights that improve safety, efficiency, and decision-making.
 
-Here are some ideas to get you started:
+I completed the Google Data Analytics Certificate and continue building projects using Excel, SQL, BigQuery, Python, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ What I Do  
+- Data cleaning, transformation, and analysis  
+- Dashboards and visualizations (Power BI / Tableau)  
+- Report automation  
+- Technical documentation (MOC, calibrations, audits)  
+- Operational optimization in food-grade and manufacturing environments  
+
+---
+
+## 🧰 Tech Stack  
+
+### Languages & Analysis  
+- Python (Pandas, NumPy, Matplotlib)  
+- SQL (MySQL, BigQuery)  
+- R (basic)
+
+### Tools  
+- Advanced Excel  
+- Power BI  
+- Tableau  
+- Google Analytics / Looker Studio  
+- Git & GitHub  
+- Power Apps + SharePoint (workflows & automation)
+
+---
+
+## 📂 Featured Project  
+*This project is in progress, but showcasing it demonstrates active development.*
+
+### 🔹 Food-Grade Operations Dashboard  
+*In progress.*  
+Dashboard to monitor calibrations, hardness tests, Quat San levels, maintenance logs, and compliance requirements for AIB/HACCP.  
+**Tech:** Excel / Power BI / SharePoint  
+→ (link coming soon)
+
+---
+
+## 🧪 Skills & Certifications  
+- Google Data Analytics
+- Practical experience with HACCP, AIB, GMP  
+- Industrial process documentation  
+- Data tracking for audits & compliance  
+
+---
+
+## 📬 Connect With Me  
+- **LinkedIn:** https://linkedin.com/in/amadis-sc  
+- **Email:** amadis.sc@gmail.com  
+
